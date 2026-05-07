@@ -83,6 +83,3 @@ If `clf.pkl` is missing, generate it by running the training workflow in:
 ## Notes
 - This repository includes training data and notebook artifacts for experimentation.
 - Prediction quality depends on the training data distribution and preprocessing.
-
-## License
-No license file is currently included in this repository.
