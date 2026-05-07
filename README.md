@@ -16,9 +16,9 @@ This project uses a trained text-classification pipeline to predict the most lik
 ## Project Structure
 ```text
 Resume-Screening-App/
-├── App/
+├── app/
 │   └── app.py                         # Streamlit application entrypoint
-├── Data/
+├── data/
 │   └── UpdatedResumeDataSet.csv       # Training dataset
 ├── notebooks/
 │   └── Resume Screening.ipynb         # Training / experimentation notebook
